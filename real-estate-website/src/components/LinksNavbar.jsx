@@ -6,7 +6,7 @@ import { AiOutlineBehance } from "react-icons/ai";
 import { MdOutlineCall } from "react-icons/md";
 const LinksNavbar = () => {
     return (
-        <div className="flex items-center justify-between px-10 py-3 bg-gray-800 text-white">
+        <div className="flex items-center justify-between px-10 py-3 bg-gray-800 text-white border-b-[0.5px] border-gray-300">
             <div className="flex items-center gap-3">
                 <div><MdOutlineMail /></div>
                 <h1>Email:example@gmail.com</h1>
