@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 import logo from '../assets/logo.png'
 const Navbar = () => {
     return (
-        <div className="bg-gray-800 px-10 py-4 flex text-white justify-between text-sm items-center ">
+        <div className="bg-gray-800 px-10 py-4 flex text-white justify-between text-sm items-center">
             <div>
                 <NavLink to='/'><img src={logo} alt="" className=""/></NavLink>
             </div>
