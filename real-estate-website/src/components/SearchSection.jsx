@@ -14,6 +14,26 @@ const SearchSection = () => {
                 <button onClick={()=>setSearch('buy')} className={search === 'buy'? 'bg-[#8F90A6] text-black  px-5 py-2 rounded-t-xl':''}>BUY</button>
                 <button onClick={()=>setSearch('sell')} className={search === 'sell'? 'bg-[#8F90A6] text-black  px-5 py-2 rounded-t-xl':''}>SELL</button>
             </div>
+            <div>
+                <div>
+                    <h1>Location</h1>
+                    <div>
+                        <p>Select your city</p> 
+                    </div>
+                </div>
+                <div>
+                    <h1>Property Type</h1>
+                    <div>
+                        <p>Choose property type</p> 
+                    </div>
+                </div>
+                <div>
+                    <h1>Price Range</h1>
+                    <div>
+                        <p>Choose Price Range</p> 
+                    </div>
+                </div>
+            </div>
         </div>
     );
 }
