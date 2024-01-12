@@ -1,5 +1,5 @@
 import HeroPage from "../components/HeroPage";
-import SearchSection from "../components/searchSection";
+import SearchSection from "../components/SearchSection";
 import TopLocation from "../components/topLocation";
 import WhyUs from "../components/WhyUs";
 import Propertise from "../components/Propertise";
