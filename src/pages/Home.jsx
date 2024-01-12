@@ -1,6 +1,6 @@
 import HeroPage from "../components/HeroPage";
 import SearchSection from "../components/SearchSection";
-import TopLocation from "../components/topLocation";
+import TopLocation from "../components/TopLocation";
 import WhyUs from "../components/WhyUs";
 import Propertise from "../components/Propertise";
 import Blogs from "../components/Blogs";
