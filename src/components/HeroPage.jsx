@@ -10,7 +10,7 @@ import sixthVector from '../assets/Vector-6.png'
 const HeroPage = () => {
   return (
     <div className="bg-gray-800 h-[35.7rem]  relative  overflow-hidden">
-    <img src={firstVector} alt="" className="absolute z-20 top-0 right-[13rem]"/>
+    <img src={firstVector} alt="" className="absolute z-20 top-0 right-[13rem]"/> 
     <img src={secondVector} alt="" className="absolute z-20 top-0 right-0 "/>
     <img src={thirdVector} alt="" className="absolute z-20 bottom-0 right-0"/>
     <img src={forthVector} alt="" className="absolute z-20 top-16  right-[35rem]"/>
